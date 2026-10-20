@@ -20,7 +20,7 @@ Desenvolvedor backend com foco em **Java e Spring**. Antes da programação, fui
 ## 🧰 Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,githubactions,git,linux,idea,postman&perline=10" alt="Java, Spring, MySQL, Docker, GitHub Actions, Git, Linux">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,githubactions,git,linux&perline=7" alt="Java, Spring, MySQL, Docker, GitHub Actions, Git, Linux">
 </p>
 
 ## 📚 Formação

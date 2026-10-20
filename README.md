@@ -25,7 +25,7 @@ Desenvolvedor backend com foco em **Java e Spring**. Antes da programação, fui
 
 ## 📚 Formação
 
-- **CS50x**, Harvard University: fundamentos de Ciência da Computação
+- **CS50x**, Harvard University
 - **Java Programming I e II**, University of Helsinki (MOOC.fi)
 
 ## 📫 Contato

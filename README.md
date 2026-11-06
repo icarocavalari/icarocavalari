@@ -4,10 +4,11 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor backend com foco em **Java e Spring**. Antes da programação, fui **capitão e jogador profissional de Counter-Strike** por 7 anos, competindo em nível internacional e conquistando 4 títulos nacionais.
+Desenvolvedor backend com foco em **Java e Spring**, cursando Ciência da Computação. Antes da programação, fui **capitão e jogador profissional de Counter-Strike** por 7 anos, competindo em nível internacional e conquistando 4 títulos nacionais.
 
 - 🎯 Construindo APIs REST com **Java, Spring Boot e Spring Security**, praticando **TDD**
-- 🧪 Testes automatizados em duas camadas: unitários com Mockito e de integração com **Testcontainers**
+- 🗄️ Persistência de dados com **PostgreSQL**, **Spring Data JPA** e **Hibernate**
+- 🧪 Testes automatizados unitários com Mockito e de integração com **Testcontainers**
 - 🐳 Aplicações containerizadas com **Docker** e pipelines de **CI/CD** no GitHub Actions
 - 🌎 **Inglês fluente (C1)**, à vontade com documentação técnica e times internacionais
 

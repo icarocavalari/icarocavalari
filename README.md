@@ -4,7 +4,7 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor backend com foco em **Java e Spring**. Antes da programação, fui **capitão profissional de Counter-Strike** por 7 anos, competindo em nível internacional e conquistando 4 títulos nacionais.
+Desenvolvedor backend com foco em **Java e Spring**. Antes da programação, fui **capitão e jogador profissional de Counter-Strike** por 7 anos, competindo em nível internacional e conquistando 4 títulos nacionais.
 
 - 🎯 Construindo APIs REST com **Java, Spring Boot e Spring Security**, praticando **TDD**
 - 🧪 Testes automatizados em duas camadas: unitários com Mockito e de integração com **Testcontainers**
